@@ -1,0 +1,1 @@
+This is the repository for multi-view vehicle traffic surveillance datasets used in the paper "A Tensor space for Multi-view and Multitask Learning based on Einstein and Hadamard Products: A Case Study in Vehicle Traffic Surveillance Systems" by Hermosillo, F., and Torres, D.
